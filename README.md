@@ -3,7 +3,7 @@ Copy
 
 # RPG Character Manager - Enhanced Edition
  
-![Image of code while running](src\rpg_manager.png)
+![Image of code while running](src/rpg_manager.png)
 
 A terminal-based RPG character management system with data visualization, statistical analysis, and random content generation. The program lets you build and manage a full roster of characters, track their attributes, skills, and inventory, and now includes charts, pandas-powered stat analysis, and Faker-generated backstories and quests.
  
